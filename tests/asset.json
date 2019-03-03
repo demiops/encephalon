@@ -1,0 +1,7 @@
+{
+	"Name": "myserver",
+	"AssetType": "vm",
+	"Cloud": "aws",
+	"CloudID": "i-1234",
+	"content": "niceserver"
+}
